@@ -1,7 +1,28 @@
 {
-  "cars": {
-    "test": {
-      "test": "test"
-    }
+  "faq":{
+    "title":"FAQ",
+    "subtitle":"Ask a question or check if it is already been answered"
+  },
+  "otp":{
+    "ab_go_verification_code":"AB GO! verification code",
+    "if_the_phonenumber_is_not_correct_please_contact_support":"(If the phonenumber is not correct, please contact Support)",
+    "please_fill_out_the_code_that_you_received_by_sms_on_phonenumber":"Please fill out the code that you received by sms on phonenumber:"
+  },
+  "auth":{
+    "email":"E-mail address",
+    "login":"Log in",
+    "welcome":"Welcome back,",
+    "password":"Password",
+    "check_news":"Check when you have to work and what the latest news is.",
+    "dont_worry":"Don't worry! Just fill in your e-mail and we will send you a link to reset your password.",
+    "check_email":"If the e-mail address exists in our database, instructions to reset your password will be sent to you. Please check your email.",
+    "back_to_login":"Back to login",
+    "reset_password":"Reset password",
+    "email_incorrect":"The e-mail is incorrect",
+    "forgot_password":"Forgot password?",
+    "send_link_again":"Send link again",
+    "reset_your_password":"Reset your password,",
+    "forgot_your_password":"Forgot your password?",
+    "username_password_incorrect":"The username or password is incorrect"
   }
 }
